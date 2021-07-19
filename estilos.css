@@ -1,0 +1,23 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.button{
+    text-align: center;
+}
+
+.p{
+    text-align: center;
+}
+
+.imagen{
+    box-sizing: border-box;
+}
+
+form{
+     max-width: 300px;
+     margin: auto;
+}
+
